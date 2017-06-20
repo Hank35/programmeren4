@@ -1,0 +1,26 @@
+{
+  "name": "tentamen",
+  "version": "1.0.0",
+  "description": "tentamen programmeren 4",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai-http": "^3.0.0",
+    "chai": "^4.0.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  },
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hank35/prog_project.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
